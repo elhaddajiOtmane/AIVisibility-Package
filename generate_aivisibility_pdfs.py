@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Visibility Business Package - PDF Generator
+AI Surfaced Business Package - PDF Generator
 Converts markdown files to professional PDFs
 """
 
@@ -16,7 +16,7 @@ from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer, Table,
                                  TableStyle, PageBreak, ListFlowable, ListItem)
 from reportlab.lib.enums import TA_LEFT, TA_CENTER
 
-# Color palette - AI Visibility brand colors
+# Color palette - AI Surfaced brand colors
 COLORS = {
     "primary": HexColor("#0F172A"),      # Dark navy
     "accent": HexColor("#3B82F6"),       # Blue
@@ -263,12 +263,12 @@ def markdown_to_pdf(md_path, pdf_path, title=None):
     # Cover page
     elements_list.append(Spacer(1, 2 * inch))
     elements_list.append(Paragraph(clean_text(title), styles["doc_title"]))
-    elements_list.append(Paragraph("AI Visibility Agency", styles["doc_subtitle"]))
+    elements_list.append(Paragraph("AI Surfaced Agency", styles["doc_subtitle"]))
     elements_list.append(Paragraph(f"Generated: {datetime.now().strftime('%B %d, %Y')}", styles["doc_subtitle"]))
     elements_list.append(Spacer(1, 1 * inch))
     
     # Brand box
-    brand_data = [["aivisibility.com"]]
+    brand_data = [["aisurfaced.com"]]
     brand_table = Table(brand_data, colWidths=[200])
     brand_table.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, -1), COLORS["accent"]),
@@ -321,7 +321,7 @@ def markdown_to_pdf(md_path, pdf_path, title=None):
     
     # Footer
     elements_list.append(Spacer(1, 0.5 * inch))
-    elements_list.append(Paragraph("AI Visibility Agency | aivisibility.com", styles["footer"]))
+    elements_list.append(Paragraph("AI Surfaced Agency | aisurfaced.com", styles["footer"]))
     
     # Build PDF
     doc.build(elements_list)
@@ -329,7 +329,7 @@ def markdown_to_pdf(md_path, pdf_path, title=None):
 
 
 def main():
-    """Generate PDFs for all AI Visibility documents."""
+    """Generate PDFs for all AI Surfaced documents."""
     
     base_dir = r"C:\laragon\www\ZyntaFlow_Brand_Package\AIVisibility-Package"
     pdf_dir = os.path.join(base_dir, "pdf")

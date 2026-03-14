@@ -1,5 +1,5 @@
 # Business Validation Document
-## AI Visibility - Pre-Branding Analysis
+## AI Surfaced - Pre-Branding Analysis
 ### The Document You Create BEFORE Picking a Name
 
 ---
@@ -151,7 +151,7 @@ Before spending time on names, domains, logos, and marketing, smart entrepreneur
 
 # SECTION 4: COMPETITOR ANALYSIS
 
-## Direct Competitors (LLMO/AI Visibility Focus)
+## Direct Competitors (LLMO/AI Surfaced Focus)
 
 | Competitor | Focus | Strength | Weakness | Threat Level |
 |------------|-------|----------|----------|--------------|
@@ -193,9 +193,9 @@ This is extremely rare. Usually you find at least 5-10 competitors. The absence 
 
 | Service | Price | Margin | Rationale |
 |---------|-------|--------|-----------|
-| **AI Visibility Audit** | $1,500-$2,500 | 70%+ | Low delivery cost, high perceived value |
-| **AI Visibility Foundation** | $5,000-$8,000 | 60% | 4-6 weeks work, scales with efficiency |
-| **AI Visibility Partnership** | $3,000-$5,000/mo | 65% | Recurring revenue, lower client acquisition cost |
+| **AI Surfaced Audit** | $1,500-$2,500 | 70%+ | Low delivery cost, high perceived value |
+| **AI Surfaced Foundation** | $5,000-$8,000 | 60% | 4-6 weeks work, scales with efficiency |
+| **AI Surfaced Partnership** | $3,000-$5,000/mo | 65% | Recurring revenue, lower client acquisition cost |
 
 ## Price Validation
 
@@ -358,8 +358,8 @@ If these conditions are NOT met: **Pause - reassess positioning or pivot**
 | ✅ Launch Plan | AIVISIBILITY-LAUNCH-PLAYBOOK.md | Complete |
 | ✅ Email Sequences | AIVISIBILITY-EMAIL-SEQUENCES.md | Complete |
 | ✅ Social Calendar | AIVISIBILITY-SOCIAL-CALENDAR.md | Complete |
-| ✅ Landing Page | aivisibility-landing/index.html | Complete |
-| ⬜ Domain Registration | aivisibility.com | Action Required |
+| ✅ Landing Page | aisurfaced-landing/index.html | Complete |
+| ⬜ Domain Registration | aisurfaced.com | Action Required |
 | ⬜ First 3 Clients | Outreach & Sales | Action Required |
 
 ---
@@ -394,7 +394,7 @@ If these conditions are NOT met: **Pause - reassess positioning or pivot**
 
 # DOCUMENT SUMMARY
 
-**Business:** AI Visibility (LLMO Agency)
+**Business:** AI Surfaced (LLMO Agency)
 **Validation Score:** 7.25/10
 **Decision:** CONDITIONAL GO
 

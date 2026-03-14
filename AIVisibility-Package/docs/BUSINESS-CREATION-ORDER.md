@@ -91,14 +91,14 @@ Before spending ANY money, answer YES to all:
 
 ---
 
-## What We Did for AI Visibility
+## What We Did for AI Surfaced
 
 1. Started with "ZyntaFlow" - generic AI growth agency
 2. Validated: Too competitive, no differentiation (FAILED)
 3. Researched: Found LLMO is new, underserved market
 4. Validated: Growing demand, few competitors (PASSED)
 5. Positioned: "Get recommended by AI chatbots"
-6. THEN named it: AI Visibility
+6. THEN named it: AI Surfaced
 7. THEN built: Website, emails, content
 
 **Result:** A business with actual differentiation, not just a cool name.

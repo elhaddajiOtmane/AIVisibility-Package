@@ -1,4 +1,4 @@
-# Social Media Content Calendar: AI Visibility
+# Social Media Content Calendar: AI Surfaced
 **Date:** March 13, 2026
 **Period:** March-April 2026 — 30-Day Calendar
 **Platforms:** LinkedIn (Primary), Twitter/X (Secondary)
@@ -7,8 +7,8 @@
 
 ## Brand Context
 
-- **Brand:** AI Visibility
-- **Domain:** aivisibility.com
+- **Brand:** AI Surfaced
+- **Domain:** aisurfaced.com
 - **Tagline:** "Get Found by AI"
 - **Audience:** B2B company founders, marketing managers, SaaS executives
 - **Voice:** Expert but accessible, data-driven, first-mover positioning, honest
@@ -53,7 +53,7 @@
 
 ---
 
-## Hook Formulas for AI Visibility Content
+## Hook Formulas for AI Surfaced Content
 
 ### LinkedIn Hooks
 
@@ -290,7 +290,7 @@ Slide 5: "What AI Looks For:"
 - Third-party validation
 
 Slide 6: "Want to Know Where Your Brand Stands?"
-Free AI Visibility Check
+Free AI Surfaced Check
 Link in comments
 
 [End Carousel]
@@ -350,7 +350,7 @@ It's SEO in 2005.
 
 7/ Want to see where your brand stands in AI search?
 
-I do free 15-minute AI Visibility checks.
+I do free 15-minute AI Surfaced checks.
 
 DM me or book here: [link]
 
@@ -583,7 +583,7 @@ The lesson: Traffic and rankings don't equal AI visibility.
 
 Different game. Different rules.
 
-Want to see where your brand stands? Link in comments for a free AI Visibility check.
+Want to see where your brand stands? Link in comments for a free AI Surfaced check.
 
 #LLMO #AIVisibility #SaaS #B2B #Marketing
 ```
@@ -838,7 +838,7 @@ Reply and tell me which one you're tackling.
 
 **LinkedIn Post - Pillar 5: Promotional**
 ```
-AI Visibility Audits are now open.
+AI Surfaced Audits are now open.
 
 Here's what you get:
 
@@ -866,7 +866,7 @@ Link in comments to book.
 
 **Twitter - Pillar 5: Promotional**
 ```
-AI Visibility Audits are now open.
+AI Surfaced Audits are now open.
 
 50+ prompt tests across ChatGPT, Perplexity, Claude.
 
@@ -934,7 +934,7 @@ Replies get answered.
 
 ## Repurposing Strategy
 
-### 1-to-10 Framework for AI Visibility Content
+### 1-to-10 Framework for AI Surfaced Content
 
 **Source:** One AI test result (e.g., "I tested CRM tools in ChatGPT")
 

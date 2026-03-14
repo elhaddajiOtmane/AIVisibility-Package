@@ -1,4 +1,4 @@
-# AI Visibility - Complete Implementation Package
+# AI Surfaced - Complete Implementation Package
 ## Everything You Need to Launch Your LLMO Agency
 
 ---
@@ -6,9 +6,9 @@
 ## QUICK START CHECKLIST
 
 ### Today (Day 1)
-- [ ] Register **aivisibility.com** at Namecheap (~$12/year)
-- [ ] Create professional email (hello@aivisibility.com)
-- [ ] Update LinkedIn profile with AI Visibility headline
+- [ ] Register **aisurfaced.com** at Namecheap (~$12/year)
+- [ ] Create professional email (hello@aisurfaced.com)
+- [ ] Update LinkedIn profile with AI Surfaced headline
 - [ ] Set up Calendly for discovery call booking (free)
 
 ### This Week
@@ -20,7 +20,7 @@
 
 ### First 30 Days
 - [ ] Execute full 30-day Social Calendar
-- [ ] Offer 3-5 free AI Visibility audits for testimonials
+- [ ] Offer 3-5 free AI Surfaced audits for testimonials
 - [ ] Send cold outreach to 50 prospects using email templates
 - [ ] Book 10+ discovery calls
 - [ ] Close 2-3 paying clients
@@ -41,17 +41,17 @@
 ## KEY BUSINESS DETAILS (Quick Reference)
 
 ### The Business
-- **Name:** AI Visibility
-- **Domain:** aivisibility.com (AVAILABLE - register now)
+- **Name:** AI Surfaced
+- **Domain:** aisurfaced.com (AVAILABLE - register now)
 - **Tagline:** "Get Found by AI"
 - **Niche:** LLMO (Large Language Model Optimization)
 
 ### What You Sell
 | Service | Price | Timeline |
 |---------|-------|----------|
-| AI Visibility Audit | $1,500-$2,500 | 1-2 weeks |
-| AI Visibility Foundation | $5,000-$8,000 | 4-6 weeks |
-| AI Visibility Partnership | $3,000-$5,000/mo | Ongoing |
+| AI Surfaced Audit | $1,500-$2,500 | 1-2 weeks |
+| AI Surfaced Foundation | $5,000-$8,000 | 4-6 weeks |
+| AI Surfaced Partnership | $3,000-$5,000/mo | Ongoing |
 
 ### Target Customers
 - B2B companies (SaaS, professional services)
@@ -60,7 +60,7 @@
 - Companies currently invisible in AI recommendations
 
 ### Your Positioning Statement
-"For B2B companies who are invisible when people ask AI for recommendations, AI Visibility is the first LLMO agency that gets your brand mentioned by ChatGPT, Perplexity, and Claude. Unlike generic SEO agencies, we focus exclusively on Large Language Model Optimization."
+"For B2B companies who are invisible when people ask AI for recommendations, AI Surfaced is the first LLMO agency that gets your brand mentioned by ChatGPT, Perplexity, and Claude. Unlike generic SEO agencies, we focus exclusively on Large Language Model Optimization."
 
 ---
 
@@ -68,7 +68,7 @@
 
 ### LinkedIn Headline
 ```
-Founder @ AI Visibility | LLMO Specialist | Helping brands get recommended by ChatGPT
+Founder @ AI Surfaced | LLMO Specialist | Helping brands get recommended by ChatGPT
 ```
 
 ### One-Liner (For Networking)
@@ -79,9 +79,9 @@ Founder @ AI Visibility | LLMO Specialist | Helping brands get recommended by Ch
 ### Email Signature
 ```
 [Your Name]
-Founder, AI Visibility
+Founder, AI Surfaced
 "Get Found by AI"
-aivisibility.com | [Calendly link]
+aisurfaced.com | [Calendly link]
 ```
 
 ### Cold DM Template
@@ -159,7 +159,7 @@ Hey [Name], quick question - have you tested how your brand appears when people 
 
 1. **Open a new browser tab**
 2. **Go to Namecheap.com**
-3. **Search for aivisibility.com**
+3. **Search for aisurfaced.com**
 4. **Register it ($12)**
 
 Once you have the domain, you have committed. Everything else flows from there.

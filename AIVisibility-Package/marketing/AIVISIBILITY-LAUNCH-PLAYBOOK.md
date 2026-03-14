@@ -1,4 +1,4 @@
-# Launch Playbook: AI Visibility
+# Launch Playbook: AI Surfaced
 ## Launch Date: Week of March 17, 2026
 ## Launch Type: Social Media Launch (LinkedIn + Twitter)
 ## Primary Goal: Book 10 discovery calls in first 2 weeks
@@ -9,8 +9,8 @@
 
 | Element | Detail |
 |---------|--------|
-| **Business** | AI Visibility |
-| **Domain** | aivisibility.com |
+| **Business** | AI Surfaced |
+| **Domain** | aisurfaced.com |
 | **Tagline** | "Get Found by AI" |
 | **Niche** | LLMO (Large Language Model Optimization) |
 | **Budget** | Bootstrapped ($0-500) |
@@ -22,7 +22,7 @@
 
 ## Positioning Statement
 
-For **B2B companies and SaaS founders** who **are invisible when people ask AI assistants for recommendations**, **AI Visibility** is a **specialized LLMO agency** that **gets your brand mentioned and recommended by ChatGPT, Perplexity, and Claude**. Unlike **generic SEO agencies**, we **focus exclusively on Large Language Model Optimization - the new discipline most agencies don't even know exists**.
+For **B2B companies and SaaS founders** who **are invisible when people ask AI assistants for recommendations**, **AI Surfaced** is a **specialized LLMO agency** that **gets your brand mentioned and recommended by ChatGPT, Perplexity, and Claude**. Unlike **generic SEO agencies**, we **focus exclusively on Large Language Model Optimization - the new discipline most agencies don't even know exists**.
 
 ---
 
@@ -32,14 +32,14 @@ For **B2B companies and SaaS founders** who **are invisible when people ask AI a
 
 ## Day 1-2: Setup
 
-- [ ] Register aivisibility.com ($12/year at Namecheap or similar)
-- [ ] Set up professional email (hello@aivisibility.com via Google Workspace or Zoho)
-- [ ] Create LinkedIn personal profile optimized for AI Visibility
-  - Headline: "Founder @ AI Visibility | LLMO Specialist | Helping brands get recommended by ChatGPT"
+- [ ] Register aisurfaced.com ($12/year at Namecheap or similar)
+- [ ] Set up professional email (hello@aisurfaced.com via Google Workspace or Zoho)
+- [ ] Create LinkedIn personal profile optimized for AI Surfaced
+  - Headline: "Founder @ AI Surfaced | LLMO Specialist | Helping brands get recommended by ChatGPT"
   - Banner: Simple design with "Get Found by AI" tagline
   - About: 3 paragraphs covering problem, solution, credibility
-- [ ] Create LinkedIn Company Page for AI Visibility
-- [ ] Set up Twitter/X profile (@aivisibility or similar)
+- [ ] Create LinkedIn Company Page for AI Surfaced
+- [ ] Set up Twitter/X profile (@aisurfaced or similar)
 - [ ] Install Calendly or Cal.com for discovery call booking (free tier)
 - [ ] Set up simple landing page using Carrd ($19/year)
 
@@ -52,7 +52,7 @@ Create a single-page landing page with:
 Headline: Get Found by AI
 Subheadline: When people ask ChatGPT for recommendations, is your brand the answer?
 
-CTA Button: Get Your AI Visibility Score [links to Calendly]
+CTA Button: Get Your AI Surfaced Score [links to Calendly]
 ```
 
 **Section 1: The Problem**
@@ -67,7 +67,7 @@ That's not a Google problem. It's an AI visibility problem.
 
 **Section 2: The Solution**
 ```
-AI Visibility specializes in LLMO (Large Language Model Optimization).
+AI Surfaced specializes in LLMO (Large Language Model Optimization).
 
 We help brands become the answer AI gives.
 - Audit your current AI visibility
@@ -77,14 +77,14 @@ We help brands become the answer AI gives.
 
 **Section 3: How It Works**
 ```
-1. AI Visibility Audit - We test your brand across 50+ prompts on ChatGPT, Perplexity, and Claude
+1. AI Surfaced Audit - We test your brand across 50+ prompts on ChatGPT, Perplexity, and Claude
 2. Gap Analysis - See exactly where competitors appear and you don't
 3. Action Plan - Get a clear roadmap to improve your AI visibility
 ```
 
 **Section 4: CTA**
 ```
-Start with a free AI Visibility check.
+Start with a free AI Surfaced check.
 [Book a 15-Minute Call]
 ```
 
@@ -97,7 +97,7 @@ Start with a free AI Visibility check.
   - Video 4: "I tested my own brand in AI - here's what I found"
   - Video 5: "The difference between SEO and LLMO explained"
 
-- [ ] Create lead magnet PDF: "The AI Visibility Checklist: 10 Things That Make AI Recommend Your Brand"
+- [ ] Create lead magnet PDF: "The AI Surfaced Checklist: 10 Things That Make AI Recommend Your Brand"
 
 - [ ] Draft 10 LinkedIn posts (see Social Calendar section)
 
@@ -124,7 +124,7 @@ Start with a free AI Visibility check.
 ## Week 4 Tasks
 
 - [ ] Reach out to pilot clients with personalized AI visibility tests of their brand
-- [ ] Deliver 2-3 free AI Visibility Audits
+- [ ] Deliver 2-3 free AI Surfaced Audits
 - [ ] Collect feedback and refine audit process
 - [ ] Request testimonials from pilot clients
 - [ ] Start creating case study content from pilot results
@@ -141,7 +141,7 @@ Start with a free AI Visibility check.
 | Wed | LinkedIn | Text post | Educational - How LLMO works |
 | Thu | LinkedIn | Carousel | "SEO vs LLMO: What's the difference" |
 | Thu | Twitter | Poll | "Do you think AI will replace Google for product research?" |
-| Fri | LinkedIn | Text post | Behind-the-scenes - building AI Visibility |
+| Fri | LinkedIn | Text post | Behind-the-scenes - building AI Surfaced |
 | Fri | Twitter | Tweet | Engagement question |
 
 ---
@@ -177,15 +177,15 @@ Start with a free AI Visibility check.
 ## Monday - Soft Launch / VIP Access
 
 **Morning (8 AM):**
-- [ ] Post on LinkedIn: Personal story about why you started AI Visibility
-- [ ] Post on Twitter: "Today's the day. AI Visibility is officially live."
+- [ ] Post on LinkedIn: Personal story about why you started AI Surfaced
+- [ ] Post on Twitter: "Today's the day. AI Surfaced is officially live."
 
 **Midday (12 PM):**
 - [ ] Email pilot clients that you're officially open for business
 - [ ] Send direct messages to 20 warmest LinkedIn connections offering priority booking
 
 **Evening (6 PM):**
-- [ ] Post Loom video: "AI Visibility is live - here's what we do"
+- [ ] Post Loom video: "AI Surfaced is live - here's what we do"
 - [ ] Respond to all comments and messages
 
 **Goal:** 3-5 discovery calls booked
@@ -206,13 +206,13 @@ What I found was shocking:
 - Most had no idea AI assistants were recommending their competitors
 - Almost none knew how to fix it
 
-So I built AI Visibility.
+So I built AI Surfaced.
 
 We specialize in LLMO (Large Language Model Optimization) - the new discipline of getting your brand mentioned, cited, and recommended by AI assistants.
 
 This is like SEO in 2005. First movers will win.
 
-If you want to know where your brand stands in AI search, I'm offering free 15-minute AI Visibility checks this week.
+If you want to know where your brand stands in AI search, I'm offering free 15-minute AI Surfaced checks this week.
 
 Link in comments.
 
@@ -221,7 +221,7 @@ Link in comments.
 
 **Twitter Announcement Thread:**
 ```
-1/ After 6 weeks of testing, AI Visibility is officially live.
+1/ After 6 weeks of testing, AI Surfaced is officially live.
 
 We help brands get recommended by ChatGPT, Perplexity, and Claude.
 
@@ -285,7 +285,7 @@ If you want to see your numbers, link in comments.
 ```
 
 - [ ] Repost/quote-tweet any positive reactions
-- [ ] Share screenshots of conversations about AI Visibility
+- [ ] Share screenshots of conversations about AI Surfaced
 
 **Goal:** Build momentum through social proof
 
@@ -334,7 +334,7 @@ Link in comments.
 
 **LinkedIn Post:**
 ```
-I opened 10 spots for free AI Visibility audits this week.
+I opened 10 spots for free AI Surfaced audits this week.
 
 7 are now taken.
 
@@ -432,7 +432,7 @@ I specialize in LLMO (Large Language Model Optimization) - getting brands recomm
 Would a 15-minute call to show you exactly where [Company] stands be useful? I can share the test results and explain what's driving them.
 
 [Your Name]
-AI Visibility | aivisibility.com
+AI Surfaced | aisurfaced.com
 ```
 
 ## Follow-Up Email (Day 4)
@@ -494,7 +494,7 @@ Hi [Name],
 
 I've been following your content on [topic] - really enjoyed your recent [post/article/video].
 
-I'm building something that might interest your audience: AI Visibility, the first agency specializing in LLMO (Large Language Model Optimization).
+I'm building something that might interest your audience: AI Surfaced, the first agency specializing in LLMO (Large Language Model Optimization).
 
 Basically, we help brands get recommended by ChatGPT and Perplexity. It's a totally new discipline that most marketers don't know exists yet.
 

@@ -1,4 +1,4 @@
-# Email Sequences: AI Visibility
+# Email Sequences: AI Surfaced
 **Date:** March 13, 2026
 **Business Type:** B2B Agency/Services (LLMO Specialist)
 **Target Audience:** SaaS founders, Marketing managers, B2B companies
@@ -18,7 +18,7 @@
 
 # SEQUENCE 1: WELCOME SEQUENCE
 
-**Trigger:** Someone downloads "The AI Visibility Checklist" lead magnet
+**Trigger:** Someone downloads "The AI Surfaced Checklist" lead magnet
 **Goal:** Build trust, demonstrate expertise, convert to discovery call
 **Emails:** 7
 **Duration:** 14 days
@@ -28,7 +28,7 @@
 
 ## Email 1: Deliver the Checklist
 **Send:** Immediately after signup
-**Subject Line:** Your AI Visibility Checklist is ready
+**Subject Line:** Your AI Surfaced Checklist is ready
 **Subject Line B (A/B):** Here's your checklist (+ a quick question)
 **Preview Text:** Plus: the #1 thing most brands get wrong about AI search
 
@@ -36,7 +36,7 @@
 
 Hey [First Name],
 
-Your AI Visibility Checklist is attached/linked below.
+Your AI Surfaced Checklist is attached/linked below.
 
 **[Download Your Checklist →]**
 
@@ -52,7 +52,7 @@ Just hit reply and let me know. I read every response and it helps me create bet
 
 Talk soon,
 [Your Name]
-Founder, AI Visibility
+Founder, AI Surfaced
 
 P.S. Over the next couple weeks, I'll share the strategies behind each checklist item. First up: the surprising reason most content doesn't get cited by AI.
 
@@ -67,7 +67,7 @@ P.S. Over the next couple weeks, I'll share the strategies behind each checklist
 
 ## Email 2: The Problem (Story + Insight)
 **Send:** Day 1 (24 hours after signup)
-**Subject Line:** Why I started AI Visibility (the honest version)
+**Subject Line:** Why I started AI Surfaced (the honest version)
 **Subject Line B (A/B):** I tested 50 brands in ChatGPT. Here's what I found.
 **Preview Text:** This wasn't supposed to be a business...
 
@@ -95,7 +95,7 @@ The rules for AI visibility are completely different from SEO.
 
 Most marketers don't know this yet. Most agencies don't offer it. It's a blind spot the size of a continent.
 
-That's why I built AI Visibility.
+That's why I built AI Surfaced.
 
 Tomorrow, I'll share the #1 factor that determines whether AI recommends your brand (it's not what you think).
 
@@ -201,7 +201,7 @@ Within 45 days, they started appearing in AI recommendations.
 
 Want to see where your brand stands?
 
-**[Book a Free 15-Minute AI Visibility Check →]**
+**[Book a Free 15-Minute AI Surfaced Check →]**
 
 No pitch. I'll share your results and explain what's driving them.
 
@@ -209,7 +209,7 @@ No pitch. I'll share your results and explain what's driving them.
 
 ---
 
-**CTA:** Book a Free 15-Minute AI Visibility Check
+**CTA:** Book a Free 15-Minute AI Surfaced Check
 **CTA Link:** [Calendly link]
 **Goal:** Use social proof to drive booking
 **Segmentation:** All welcome sequence subscribers
@@ -252,7 +252,7 @@ It's like SEO in 2005. The early movers won that game. Most are still benefiting
 
 If you're thinking long-term, let's talk.
 
-**[Book Your AI Visibility Check →]**
+**[Book Your AI Surfaced Check →]**
 
 [Your Name]
 
@@ -260,7 +260,7 @@ P.S. If you're still skeptical, I respect that. Reply and tell me what would con
 
 ---
 
-**CTA:** Book Your AI Visibility Check
+**CTA:** Book Your AI Surfaced Check
 **Goal:** Address objections, push fence-sitters
 **Segmentation:** Subscribers who haven't booked yet
 
@@ -269,7 +269,7 @@ P.S. If you're still skeptical, I respect that. Reply and tell me what would con
 ## Email 6: Direct Pitch
 **Send:** Day 10
 **Subject Line:** Want me to run an AI test on your brand?
-**Subject Line B (A/B):** Free: Your brand's AI Visibility Score
+**Subject Line B (A/B):** Free: Your brand's AI Surfaced Score
 **Preview Text:** 15 minutes. No pitch. Just insights.
 
 ---
@@ -280,7 +280,7 @@ I've shared a lot about AI visibility over the past week.
 
 Now I want to offer something practical:
 
-**A free 15-minute AI Visibility Check for your brand.**
+**A free 15-minute AI Surfaced Check for your brand.**
 
 Here's what you'll get:
 - Live test of your brand across ChatGPT, Perplexity, and Claude
@@ -306,7 +306,7 @@ Slots are limited because I run each test manually. First come, first served.
 
 ## Email 7: Final Push
 **Send:** Day 14
-**Subject Line:** Last chance: Free AI Visibility Check
+**Subject Line:** Last chance: Free AI Surfaced Check
 **Subject Line B (A/B):** Closing the loop on AI visibility
 **Preview Text:** After this, audits start at $1,500
 
@@ -314,13 +314,13 @@ Slots are limited because I run each test manually. First come, first served.
 
 Hey [First Name],
 
-This is my last email about the free AI Visibility Check.
+This is my last email about the free AI Surfaced Check.
 
 After this week, audits start at $1,500 (which is what they're worth, honestly).
 
 If you've been curious but haven't booked, here's your final chance:
 
-**[Book Your Free AI Visibility Check →]**
+**[Book Your Free AI Surfaced Check →]**
 
 What you'll get:
 ✓ Live test across ChatGPT, Perplexity, Claude
@@ -338,7 +338,7 @@ P.S. Even if you're not ready to optimize, knowing your AI visibility score is v
 
 ---
 
-**CTA:** Book Your Free AI Visibility Check
+**CTA:** Book Your Free AI Surfaced Check
 **Goal:** Final conversion push with urgency
 **Segmentation:** Subscribers who haven't booked yet
 
@@ -379,7 +379,7 @@ Would a 15-minute call to show you exactly where [Company] stands in AI search b
 I can share the test results and explain what's driving them. No pitch, just insights.
 
 [Your Name]
-AI Visibility | aivisibility.com
+AI Surfaced | aisurfaced.com
 
 ---
 
@@ -464,7 +464,7 @@ Either way, let me know.
 **Send:** Day 14
 **Subject Line:** Something useful for [Company]
 **Subject Line B (A/B):** Free resource (no strings)
-**Preview Text:** The AI Visibility Checklist
+**Preview Text:** The AI Surfaced Checklist
 
 ---
 
@@ -535,7 +535,7 @@ Wishing you and the team at [Company] continued success.
 ## Email 1: Post-Call Value
 **Send:** 3 days after discovery call
 **Subject Line:** The LLMO framework I mentioned
-**Subject Line B (A/B):** Following up with the AI Visibility Framework
+**Subject Line B (A/B):** Following up with the AI Surfaced Framework
 **Preview Text:** Here's the structure we discussed
 
 ---
@@ -686,7 +686,7 @@ Last note for now on AI visibility.
 
 The proposal we discussed for [Company] is still available if the timing has improved:
 
-- AI Visibility Audit: [$X]
+- AI Surfaced Audit: [$X]
 - Timeline: [X weeks]
 - What's included: [Brief summary]
 
@@ -749,7 +749,7 @@ Thanks for staying in touch.
 
 - [ ] Physical mailing address in every email footer
 - [ ] Working unsubscribe link in every email (process within 10 days)
-- [ ] "From" name and email are accurate (AI Visibility / your name)
+- [ ] "From" name and email are accurate (AI Surfaced / your name)
 - [ ] Subject lines are not deceptive or misleading
 - [ ] Commercial intent is clear
 

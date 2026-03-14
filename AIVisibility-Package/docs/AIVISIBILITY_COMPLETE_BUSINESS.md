@@ -1,4 +1,4 @@
-# AI Visibility - Complete Business Package
+# AI Surfaced - Complete Business Package
 ## The First-Mover Advantage in LLMO (Large Language Model Optimization)
 
 ---
@@ -9,19 +9,19 @@
 
 | Old Game (Saturated) | New Game (Wide Open) |
 |---------------------|---------------------|
-| "AI Growth Agency" | **AI Visibility Specialist** |
+| "AI Growth Agency" | **AI Surfaced Specialist** |
 | SEO for Google | **LLMO for ChatGPT, Perplexity, Claude** |
 | 50,000+ competitors | **< 100 agencies specialize in this** |
 | Commodity pricing | **Premium pricing (new expertise)** |
 
-### What is AI Visibility / LLMO?
+### What is AI Surfaced / LLMO?
 
 When someone asks ChatGPT:
 > "What's the best CRM for small businesses?"
 
 ChatGPT gives recommendations. **Does it mention your client's brand?**
 
-That's AI Visibility. Getting brands mentioned, cited, and recommended by AI assistants.
+That's AI Surfaced. Getting brands mentioned, cited, and recommended by AI assistants.
 
 ### Why It's a Goldmine in 2026
 
@@ -35,15 +35,15 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 
 # PART 2: THE NAME
 
-## Primary Recommendation: **AI Visibility**
+## Primary Recommendation: **AI Surfaced**
 
 | Domain | Status | Price |
 |--------|--------|-------|
-| **aivisibility.com** | AVAILABLE | ~$12/year |
-| aivisibility.ai | Available | ~$80/year |
-| aivisibility.io | Available | ~$40/year |
+| **aisurfaced.com** | AVAILABLE | ~$12/year |
+| aisurfaced.ai | Available | ~$80/year |
+| aisurfaced.io | Available | ~$40/year |
 
-### Why "AI Visibility" Works
+### Why "AI Surfaced" Works
 
 1. **Instantly clear** - people know what you do
 2. **Keyword-rich** - SEO advantage from day 1
@@ -75,7 +75,7 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 
 ## Mission Statement
 
-> AI Visibility helps brands become the answer when AI assistants recommend solutions. Through strategic LLMO (Large Language Model Optimization), we ensure your brand is cited, mentioned, and trusted by ChatGPT, Perplexity, Claude, and the AI systems shaping modern discovery.
+> AI Surfaced helps brands become the answer when AI assistants recommend solutions. Through strategic LLMO (Large Language Model Optimization), we ensure your brand is cited, mentioned, and trusted by ChatGPT, Perplexity, Claude, and the AI systems shaping modern discovery.
 
 ## Brand Voice
 
@@ -103,7 +103,7 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 
 ## The Three Tiers
 
-### Tier 1: AI Visibility Audit
+### Tier 1: AI Surfaced Audit
 **Price: $1,500 - $2,500**
 **Timeline: 1-2 weeks**
 
@@ -115,14 +115,14 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 - Strategic recommendations report
 - 60-minute strategy call
 
-**Deliverable:** AI Visibility Scorecard + Action Plan (PDF)
+**Deliverable:** AI Surfaced Scorecard + Action Plan (PDF)
 
 **What to Say to Clients:**
-> "Before we do anything, we need to understand where you stand. Our AI Visibility Audit tests your brand across 50+ prompts on every major AI platform. You'll see exactly where you're being recommended, where you're invisible, and what's causing the gap. Most brands are shocked by what they find."
+> "Before we do anything, we need to understand where you stand. Our AI Surfaced Audit tests your brand across 50+ prompts on every major AI platform. You'll see exactly where you're being recommended, where you're invisible, and what's causing the gap. Most brands are shocked by what they find."
 
 ---
 
-### Tier 2: AI Visibility Foundation
+### Tier 2: AI Surfaced Foundation
 **Price: $5,000 - $8,000**
 **Timeline: 4-6 weeks**
 
@@ -143,7 +143,7 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 
 ---
 
-### Tier 3: AI Visibility Partnership
+### Tier 3: AI Surfaced Partnership
 **Price: $3,000 - $5,000/month (retainer)**
 **Timeline: Ongoing**
 
@@ -183,7 +183,7 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 > Would a 15-minute call to show you exactly where [Company] stands in AI search be useful?
 >
 > [Your name]
-> AI Visibility | aivisibility.com
+> AI Surfaced | aisurfaced.com
 
 ---
 
@@ -210,7 +210,7 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 > Most SEO agencies don't know how to do this yet. It's completely new."
 
 **Close (3 min):**
-> "The best starting point is our AI Visibility Audit. We test your brand across 50+ prompts, show you exactly where you stand versus competitors, and give you a clear action plan. It's $2,000 and takes about a week. Want me to send over the details?"
+> "The best starting point is our AI Surfaced Audit. We test your brand across 50+ prompts, show you exactly where you stand versus competitors, and give you a clear action plan. It's $2,000 and takes about a week. Want me to send over the details?"
 
 ---
 
@@ -247,11 +247,11 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 >
 > If not, you're invisible in the fastest-growing discovery channel on the planet.
 >
-> **AI Visibility** specializes in LLMO (Large Language Model Optimization) - the new discipline of getting your brand cited, mentioned, and recommended by AI assistants.
+> **AI Surfaced** specializes in LLMO (Large Language Model Optimization) - the new discipline of getting your brand cited, mentioned, and recommended by AI assistants.
 >
 > We're not an SEO agency. We're not a growth agency. We're specialists in one thing: making AI trust your brand enough to recommend it.
 >
-> **[Get Your AI Visibility Audit →]**
+> **[Get Your AI Surfaced Audit →]**
 
 ### About Page Copy
 
@@ -276,7 +276,7 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 ## Immediate Actions
 
 ### Day 1-2: Setup
-- [ ] Register aivisibility.com
+- [ ] Register aisurfaced.com
 - [ ] Create LinkedIn profile/page
 - [ ] Set up simple landing page (Carrd or similar)
 
@@ -301,7 +301,7 @@ That's AI Visibility. Getting brands mentioned, cited, and recommended by AI ass
 
 ## Free Lead Magnet
 
-**"The AI Visibility Checklist: 10 Things That Make AI Recommend Your Brand"**
+**"The AI Surfaced Checklist: 10 Things That Make AI Recommend Your Brand"**
 
 Give away a simple PDF checklist in exchange for email addresses. Use this to build your list and warm up leads.
 
@@ -312,7 +312,7 @@ Give away a simple PDF checklist in exchange for email addresses. Use this to bu
 ## Get Your First Case Studies (Free or Low-Cost)
 
 ### Option 1: Free Audits
-Offer 5 free AI Visibility Audits to build case studies. Requirements:
+Offer 5 free AI Surfaced Audits to build case studies. Requirements:
 - They let you share results publicly (anonymized or named)
 - They give a testimonial if satisfied
 - They're in your target industry
@@ -384,7 +384,7 @@ With 5-8 retainer clients at $3,000-$5,000/month = **$15,000-$40,000/month recur
 
 ## Immediate (This Week)
 
-1. **Register aivisibility.com** - Don't wait
+1. **Register aisurfaced.com** - Don't wait
 2. **Set up LinkedIn** - Your main channel
 3. **Create landing page** - Simple is fine
 4. **Make 5 AI test videos** - Your proof of concept
@@ -410,14 +410,14 @@ With 5-8 retainer clients at $3,000-$5,000/month = **$15,000-$40,000/month recur
 
 | Element | Decision |
 |---------|----------|
-| **Business Name** | AI Visibility |
-| **Domain** | aivisibility.com |
+| **Business Name** | AI Surfaced |
+| **Domain** | aisurfaced.com |
 | **Tagline** | "Get Found by AI" |
 | **Niche** | LLMO (Large Language Model Optimization) |
 | **Target Market** | B2B companies, SaaS, Professional Services |
-| **Entry Product** | AI Visibility Audit ($1,500-$2,500) |
-| **Core Product** | AI Visibility Foundation ($5,000-$8,000) |
-| **Recurring Product** | AI Visibility Partnership ($3,000-$5,000/mo) |
+| **Entry Product** | AI Surfaced Audit ($1,500-$2,500) |
+| **Core Product** | AI Surfaced Foundation ($5,000-$8,000) |
+| **Recurring Product** | AI Surfaced Partnership ($3,000-$5,000/mo) |
 | **Differentiation** | First-mover in LLMO specialization |
 | **Lead Gen** | LinkedIn + Cold Outreach + AI Test Videos |
 
@@ -428,4 +428,4 @@ With 5-8 retainer clients at $3,000-$5,000/month = **$15,000-$40,000/month recur
 ---
 
 *Document created: March 13, 2026*
-*AI Visibility Business Package v1.0*
+*AI Surfaced Business Package v1.0*
