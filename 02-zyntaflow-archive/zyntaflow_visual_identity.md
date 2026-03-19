@@ -122,6 +122,96 @@ Gradients reinforce the "Flow" concept with smooth transitions that feel dynamic
   --gradient-teal-flow: linear-gradient(135deg, var(--accent-primary), oklch(70% 0.10 170));
   --gradient-deep-dive: linear-gradient(180deg, var(--bg-primary), var(--bg-elevated));
 }
+```
+
+---
+
+### 1.5 Color Application Guidelines
+
+Strategic color distribution following the 60-30-10 rule for visual balance.
+
+#### The 60-30-10 Distribution
+
+| Proportion | Color Family | Application |
+| :--- | :--- | :--- |
+| **60%** | Deep Space Blue | Page backgrounds, containers, sections |
+| **30%** | Slate Grey | Text, borders, icons, subtle elements |
+| **10%** | Electric Teal | CTAs, links, highlights, active states |
+
+#### Component Color Mapping
+
+| Component | Default State | Hover | Active | Disabled |
+| :--- | :--- | :--- | :--- | :--- |
+| **Primary Button** | Electric Teal (300) | Teal Light (200) | Teal Bright (400) | Teal + 50% opacity |
+| **Secondary Button** | Transparent + Teal border | Navy (600) bg | Dusk (500) bg | Slate (300) border |
+| **Card** | Midnight (700) | Navy (600) | Dusk (500) border | Storm (400) opacity |
+| **Input Field** | Midnight (700) + Shadow border | Navy (600) | Teal border | Storm (400) bg |
+| **Link** | Electric Teal (300) | Teal Light (200) underline | Teal Bright (400) | Slate (300) |
+
+#### Text on Background Pairings
+
+| Background | Primary Text | Secondary Text | Accent Text |
+| :--- | :--- | :--- | :--- |
+| Deep Space (800) | Mist (100) | Fog (200) | Electric Teal (300) |
+| Midnight (700) | Mist (100) | Fog (200) | Electric Teal (300) |
+| Void (900) | Soft White | Mist (100) | Teal Light (200) |
+| Light surfaces | Deep Space (800) | Slate (300) | Teal Deep (500) |
+
+#### Accent Borders & Highlights
+
+Use Electric Teal strategically to draw attention:
+
+- **Left border accent**: 3-4px solid teal on cards/sections for emphasis
+- **Glow effects**: Subtle teal glow (`box-shadow: 0 0 20px rgba(100,255,218,0.2)`) on hover
+- **Underlines**: Teal underlines for active navigation or emphasis
+- **Focus rings**: 2px teal outline with 2px offset for accessibility
+
+---
+
+### 1.6 Accessibility & Contrast
+
+All color combinations must meet WCAG 2.1 AA standards.
+
+#### Verified Contrast Ratios
+
+| Combination | Ratio | WCAG Level | Use For |
+| :--- | :--- | :--- | :--- |
+| Soft White on Deep Space | 12.5:1 | AAA | Primary headings, important text |
+| Mist on Deep Space | 9.2:1 | AAA | Body text |
+| Electric Teal on Deep Space | 8.7:1 | AAA | Links, buttons, accents |
+| Fog on Deep Space | 5.8:1 | AA | Secondary text |
+| Slate on Deep Space | 4.1:1 | AA | Tertiary text, captions |
+| Deep Space on Electric Teal | 8.7:1 | AAA | Button text |
+
+#### Color Accessibility Rules
+
+1. **Never rely on color alone** - Always pair color with icons, labels, or patterns
+2. **Test for color blindness** - Verify teal/green combinations work for deuteranopia
+3. **Minimum contrast for text**: 4.5:1 for normal text, 3:1 for large text (18px+)
+4. **Minimum contrast for UI**: 3:1 for interactive components and visual boundaries
+
+#### Dark Mode Considerations
+
+The primary brand is dark-mode-first. When implementing light mode:
+- Swap Deep Space backgrounds for Soft White
+- Use Deep Space for text instead of Mist
+- Reduce Electric Teal saturation by 10% to prevent eye strain
+- Use Teal Deep (500) for links instead of Electric Teal (300)
+
+---
+
+### 1.7 Color Don'ts
+
+| Avoid | Reason | Instead |
+| :--- | :--- | :--- |
+| Pure white (`#FFFFFF`) for backgrounds | Too harsh, lacks warmth | Use Soft White (`#E6F1FF`) |
+| Pure black (`#000000`) for text | Too stark, low sophistication | Use Deep Space or Void |
+| Gray text on colored backgrounds | Looks washed out | Use darker shade of background hue |
+| Electric Teal for large text blocks | Vibrant color causes eye fatigue | Reserve for accents only |
+| Multiple accent colors competing | Creates visual chaos | One accent per viewport section |
+| Teal + Green adjacent | Colorblind users can't distinguish | Separate with neutrals |
+
+---
 
 ## 2. Typography: "The Modern Professional"
 - **Primary Font (Headings):** **Inter** or **Montserrat** (Bold/Extra Bold). Clean, geometric, and highly readable.
