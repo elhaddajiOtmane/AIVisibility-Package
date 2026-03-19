@@ -1,12 +1,12 @@
 # AI Surfaced — Brand Package
 
-> Previously "ZyntaFlow". Pivoted after validation to **AI Surfaced** — a specialized LLMO (Large Language Model Optimization) agency.
+> Previously "AISurfaced". Pivoted after validation to **AI Surfaced** — a specialized LLMO (Large Language Model Optimization) agency.
 
 ## Project Structure
 
 ```
 ├── 01-research/          # Early brainstorming: names, domains, brand voice
-├── 02-zyntaflow-archive/ # Abandoned ZyntaFlow brand docs (kept for reference)
+├── 02-AISurfaced-archive/ # Abandoned AISurfaced brand docs (kept for reference)
 ├── 03-ai-surfaced/       # Current brand ✅
 │   ├── docs/             # Business plan, validation, implementation
 │   ├── marketing/        # Email sequences, launch playbook, social calendar
@@ -28,7 +28,7 @@
 
 ## Brand Evolution
 
-1. **ZyntaFlow** — Generic AI growth agency → failed validation (too competitive)
+1. **AISurfaced** — Generic AI growth agency → failed validation (too competitive)
 2. **AI Surfaced** — LLMO specialist → passed validation (new market, <100 competitors)
 
 *Created: March 2026*

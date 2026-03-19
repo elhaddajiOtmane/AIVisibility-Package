@@ -1,7 +1,7 @@
-# ZyntaFlow: Content Marketing and Social Media Strategy (2026)
+# AISurfaced: Content Marketing and Social Media Strategy (2026)
 
 ## 1. Content Pillars: "The Growth Blueprint"
-ZyntaFlow's content will focus on demonstrating expertise in AI-driven growth and immersive design.
+AISurfaced's content will focus on demonstrating expertise in AI-driven growth and immersive design.
 
 | Pillar | Content Type | Goal |
 | :--- | :--- | :--- |
@@ -11,7 +11,7 @@ ZyntaFlow's content will focus on demonstrating expertise in AI-driven growth an
 | **Client Success** | Video testimonials and "Before & After" growth metrics. | Build trust and social proof. |
 
 ## 2. Social Media Strategy: "Omnichannel Presence"
-ZyntaFlow will focus on platforms where its target audience (B2B SaaS and High-End E-commerce) is most active.
+AISurfaced will focus on platforms where its target audience (B2B SaaS and High-End E-commerce) is most active.
 
 ### LinkedIn: The Authority Hub
 - **Frequency:** 3-5 times per week.
@@ -31,4 +31,4 @@ ZyntaFlow will focus on platforms where its target audience (B2B SaaS and High-E
 ## 3. Content Distribution and AI Automation
 - **AI-Driven Repurposing:** Use AI tools to turn one long-form LinkedIn article into 5 X threads, 3 Instagram Reels scripts, and a newsletter summary.
 - **Dynamic Newsletter:** A bi-weekly "Growth Flow" newsletter that delivers curated AI and growth insights to prospects.
-- **Interactive Demos:** Host a "Growth Lab" on the ZyntaFlow website where visitors can interact with 3D elements and see real-time AI personalization.
+- **Interactive Demos:** Host a "Growth Lab" on the AISurfaced website where visitors can interact with 3D elements and see real-time AI personalization.

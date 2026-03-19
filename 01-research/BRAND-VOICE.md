@@ -1,18 +1,18 @@
 # Brand Voice Guidelines
-## ZyntaFlow
+## AISurfaced
 ### Analysis Date: March 13, 2026
 
 ---
 
 ## Voice Summary
-ZyntaFlow speaks as a confident, forward-thinking growth partner that balances technical sophistication with accessible communication. The brand voice is professional yet progressive, using outcome-focused language that emphasizes ROI and measurable results while maintaining an approachable, partnership-oriented tone. ZyntaFlow sounds like an expert who's already living in the future, simplifying complex AI technology for ambitious business leaders.
+AISurfaced speaks as a confident, forward-thinking growth partner that balances technical sophistication with accessible communication. The brand voice is professional yet progressive, using outcome-focused language that emphasizes ROI and measurable results while maintaining an approachable, partnership-oriented tone. AISurfaced sounds like an expert who's already living in the future, simplifying complex AI technology for ambitious business leaders.
 
 ---
 
 ## Voice Dimensions
 
 ### Formal <-----> Casual: 4/10
-ZyntaFlow leans formal but accessible. The brand uses professional vocabulary ("accelerate," "leverage," "ecosystem") but avoids stuffiness through direct address and action-oriented language.
+AISurfaced leans formal but accessible. The brand uses professional vocabulary ("accelerate," "leverage," "ecosystem") but avoids stuffiness through direct address and action-oriented language.
 
 **Evidence:**
 - "We don't just build websites; we create fluid, high-converting ecosystems" (confident, professional)
@@ -21,7 +21,7 @@ ZyntaFlow leans formal but accessible. The brand uses professional vocabulary ("
 - Avoids jargon-heavy sentences but uses strategic industry terms
 
 ### Serious <-----> Playful: 3/10
-ZyntaFlow is primarily serious with a focus on business outcomes. The brand occasionally shows energy through powerful verbs but rarely uses humor, emojis, or casual exclamations.
+AISurfaced is primarily serious with a focus on business outcomes. The brand occasionally shows energy through powerful verbs but rarely uses humor, emojis, or casual exclamations.
 
 **Evidence:**
 - No use of exclamation marks in brand documents
@@ -39,11 +39,11 @@ Balanced approach - uses industry terms (CRO, AI personalization, Core Web Vital
 - Targets "CEOs and CMOs" - assumes business acumen, not technical depth
 
 ### Reserved <-----> Bold: 7/10
-ZyntaFlow makes confident claims and strong statements. The brand positions itself as a leader and isn't afraid to declare industry shifts or make definitive recommendations.
+AISurfaced makes confident claims and strong statements. The brand positions itself as a leader and isn't afraid to declare industry shifts or make definitive recommendations.
 
 **Evidence:**
 - "The traditional 'web agency' model is evolving" - declarative
-- "ZyntaFlow engineers Adaptive Growth Ecosystems" - bold capability claim
+- "AISurfaced engineers Adaptive Growth Ecosystems" - bold capability claim
 - "We don't just build websites" - direct competitive differentiation
 - "To survive, your agency must focus on..." - prescriptive, authoritative
 
@@ -71,7 +71,7 @@ Reserved                                  Bold
 ## Brand Personality
 
 ### Primary Archetype: The Innovator
-ZyntaFlow embodies the Innovator archetype - forward-thinking, tech-savvy, and visionary. The brand constantly references the future ("2026 market trends," "the future of web," "AI-driven") and positions itself as ahead of the curve.
+AISurfaced embodies the Innovator archetype - forward-thinking, tech-savvy, and visionary. The brand constantly references the future ("2026 market trends," "the future of web," "AI-driven") and positions itself as ahead of the curve.
 
 **Evidence:**
 - "Progressive" appears in brand voice description
@@ -80,7 +80,7 @@ ZyntaFlow embodies the Innovator archetype - forward-thinking, tech-savvy, and v
 - Language around "reimagining" and "evolving" the industry
 
 ### Secondary Archetype: The Authority
-The brand blends Innovator with Authority - providing data-driven guidance, strategic frameworks, and expert recommendations. ZyntaFlow isn't just disrupting; it's leading with credibility.
+The brand blends Innovator with Authority - providing data-driven guidance, strategic frameworks, and expert recommendations. AISurfaced isn't just disrupting; it's leading with credibility.
 
 **Evidence:**
 - Uses tables, frameworks, and structured analysis throughout
@@ -89,7 +89,7 @@ The brand blends Innovator with Authority - providing data-driven guidance, stra
 - Positions as a "strategic partner" not just a vendor
 
 ### Archetype Fit: Strong
-The Innovator-Authority blend perfectly matches ZyntaFlow's positioning as a Modern Growth Agency that helps clients navigate industry transformation with both vision and expertise.
+The Innovator-Authority blend perfectly matches AISurfaced's positioning as a Modern Growth Agency that helps clients navigate industry transformation with both vision and expertise.
 
 ---
 
@@ -245,14 +245,14 @@ Alternative options:
 5. **Double-Niche Expertise:** "Deep industry knowledge combined with specialized growth tactics - because generic strategies deliver generic results."
 
 ### Elevator Pitch (30 seconds / 75 words)
-"ZyntaFlow is a Modern Growth Agency that helps B2B SaaS companies and high-end brands accelerate revenue through AI-integrated digital ecosystems. We don't build websites - we engineer adaptive growth systems that evolve in real-time based on user behavior. Our outcome-based model means we succeed only when you see measurable ROI. If you're ready to move beyond static web presence to dynamic, high-converting digital experiences, let's talk."
+"AISurfaced is a Modern Growth Agency that helps B2B SaaS companies and high-end brands accelerate revenue through AI-integrated digital ecosystems. We don't build websites - we engineer adaptive growth systems that evolve in real-time based on user behavior. Our outcome-based model means we succeed only when you see measurable ROI. If you're ready to move beyond static web presence to dynamic, high-converting digital experiences, let's talk."
 
 ### Boilerplate (100-150 words)
-"ZyntaFlow is a Modern Growth Agency engineering adaptive digital ecosystems for ambitious brands. Founded on the principle that traditional web design is obsolete, ZyntaFlow leverages AI-driven personalization, immersive 3D experiences, and data-driven conversion optimization to deliver measurable business growth.
+"AISurfaced is a Modern Growth Agency engineering adaptive digital ecosystems for ambitious brands. Founded on the principle that traditional web design is obsolete, AISurfaced leverages AI-driven personalization, immersive 3D experiences, and data-driven conversion optimization to deliver measurable business growth.
 
-Serving B2B SaaS companies, high-end e-commerce brands, and professional services firms, ZyntaFlow operates as a strategic growth partner rather than a project-based vendor. The agency's outcome-based model focuses on ROI, conversion rates, and customer lifetime value - not just deliverables.
+Serving B2B SaaS companies, high-end e-commerce brands, and professional services firms, AISurfaced operates as a strategic growth partner rather than a project-based vendor. The agency's outcome-based model focuses on ROI, conversion rates, and customer lifetime value - not just deliverables.
 
-With expertise spanning AI integration, Core Web Vitals optimization, and the evolving landscape of zero-click search, ZyntaFlow helps forward-thinking businesses navigate the shift from static information to dynamic, revenue-generating digital presence. The future of web isn't about being online - it's about growing. ZyntaFlow makes that happen."
+With expertise spanning AI integration, Core Web Vitals optimization, and the evolving landscape of zero-click search, AISurfaced helps forward-thinking businesses navigate the shift from static information to dynamic, revenue-generating digital presence. The future of web isn't about being online - it's about growing. AISurfaced makes that happen."
 
 ---
 
@@ -262,7 +262,7 @@ With expertise spanning AI integration, Core Web Vitals optimization, and the ev
 "Your Website Isn't Working. Your Growth Ecosystem Will."
 
 ### 2. Product Description Paragraph
-"ZyntaFlow's AI-Driven Conversion Funnels transform how B2B SaaS companies capture and convert leads. Using real-time behavioral analysis and dynamic content personalization, we build digital experiences that adapt to each visitor - showing the right message, at the right time, to the right prospect. The result? Higher conversion rates, shorter sales cycles, and measurable ROI you can track from first click to closed deal."
+"AISurfaced's AI-Driven Conversion Funnels transform how B2B SaaS companies capture and convert leads. Using real-time behavioral analysis and dynamic content personalization, we build digital experiences that adapt to each visitor - showing the right message, at the right time, to the right prospect. The result? Higher conversion rates, shorter sales cycles, and measurable ROI you can track from first click to closed deal."
 
 ### 3. Blog Post Opening
 "The website you launched in 2024 is already obsolete. With AI Overviews capturing 25% of search traffic and zero-click results dominating Google, the traditional 'build it and they will come' approach is failing businesses faster than ever. Here's what the most successful B2B brands are doing instead - and how you can adapt before your competitors do."
@@ -302,7 +302,7 @@ Here's how we helped [Client] increase demo bookings by 340% in 60 days: [link]"
 
 ## Competitor Voice Comparison
 
-| Dimension | ZyntaFlow | Traditional Web Agency | Growth Marketing Agency | AI/Tech Agency |
+| Dimension | AISurfaced | Traditional Web Agency | Growth Marketing Agency | AI/Tech Agency |
 |---|---|---|---|---|
 | Formal <> Casual | 4/10 | 3/10 | 6/10 | 4/10 |
 | Serious <> Playful | 3/10 | 2/10 | 5/10 | 3/10 |
@@ -312,7 +312,7 @@ Here's how we helped [Client] increase demo bookings by 340% in 60 days: [link]"
 
 ### Differentiation Assessment
 
-**Voice Territory ZyntaFlow Owns:**
+**Voice Territory AISurfaced Owns:**
 - The intersection of AI expertise and business outcomes
 - Future-forward without being impractical
 - Technical credibility with accessible communication
@@ -322,7 +322,7 @@ Here's how we helped [Client] increase demo bookings by 340% in 60 days: [link]"
 - Most traditional agencies sound dated and deliverable-focused
 - Most growth agencies are too casual and lack technical depth
 - Most AI agencies are too technical and lack business context
-- ZyntaFlow uniquely bridges all three
+- AISurfaced uniquely bridges all three
 
 **Recommendation:**
 Lean further into the "already living in the future" positioning. Use phrases like "while others are still..." to create contrast without naming competitors directly.
@@ -344,7 +344,7 @@ Lean further into the "already living in the future" positioning. Use phrases li
 The existing brand documents maintain excellent consistency. Minor variations exist in formality level between strategic documents and tactical documents, but core voice remains aligned.
 
 **Consistency Recommendations:**
-1. Create a "ZyntaFlow Phrase Book" with 20-30 approved phrases for common situations
+1. Create a "AISurfaced Phrase Book" with 20-30 approved phrases for common situations
 2. Develop templates for social media, email, and proposals that embed brand voice
 3. Review all copy against the "Words We Avoid" list before publishing
 
@@ -360,7 +360,7 @@ The existing brand documents maintain excellent consistency. Minor variations ex
 
 ### Voice Evolution Opportunities
 1. **Add more boldness in competitive contexts:** When differentiating from traditional agencies, be more direct about what's broken in the industry
-2. **Develop a "ZyntaFlow-ism" glossary:** Unique terms that become associated with your brand (e.g., "Growth Ecosystem," "Adaptive Presence")
+2. **Develop a "AISurfaced-ism" glossary:** Unique terms that become associated with your brand (e.g., "Growth Ecosystem," "Adaptive Presence")
 3. **Create content formats that showcase voice:** The "Growth Audit" format, "Future Forward" thought pieces, "Revenue Leak" diagnostic
 
 ### Consistency Improvements
@@ -370,4 +370,4 @@ The existing brand documents maintain excellent consistency. Minor variations ex
 
 ---
 
-*Brand Voice Guidelines generated for ZyntaFlow | March 13, 2026*
+*Brand Voice Guidelines generated for AISurfaced | March 13, 2026*

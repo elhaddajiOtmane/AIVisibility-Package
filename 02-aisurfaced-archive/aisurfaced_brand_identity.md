@@ -1,7 +1,7 @@
-# Brand Identity: ZyntaFlow
+# Brand Identity: AISurfaced
 
 ## 1. Brand Essence
-**ZyntaFlow** is a Modern Growth Agency (2026) that bridges the gap between high-end AI technology and human-centric growth. We don't just build websites; we create fluid, high-converting ecosystems that adapt to the future of search and user behavior.
+**AISurfaced** is a Modern Growth Agency (2026) that bridges the gap between high-end AI technology and human-centric growth. We don't just build websites; we create fluid, high-converting ecosystems that adapt to the future of search and user behavior.
 
 ## 2. Mission, Vision, and Values
 - **Mission:** To accelerate business growth through adaptive, AI-integrated digital experiences.

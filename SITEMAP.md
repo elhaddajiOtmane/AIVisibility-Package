@@ -21,24 +21,24 @@
 | `agency_names.md` | 30+ agency name ideas across categories (outcome, tech, human-centric, etc.) |
 | `agency_research.md` | Market research on agency landscape |
 | `agency_guidance_report.md` | Strategic guidance for agency positioning |
-| `available_domains.md` | Verified .com domain availability (ZyntaFlow, NexaSlope, KodaRise, etc.) |
+| `available_domains.md` | Verified .com domain availability (AISurfaced, NexaSlope, KodaRise, etc.) |
 | `BRAND-VOICE.md` | Brand voice and tone guidelines |
 
 ---
 
-## 📁 `02-zyntaflow-archive/` — Abandoned Brand (Reference Only)
+## 📁 `02-AISurfaced-archive/` — Abandoned Brand (Reference Only)
 
-> ZyntaFlow was the original "AI Growth Agency" idea. Abandoned after validation showed too much competition.
+> AISurfaced was the original "AI Growth Agency" idea. Abandoned after validation showed too much competition.
 
 | File | Description |
 |------|-------------|
-| `zyntaflow_final_report.md` | Complete brand identity report (colors, typography, logo concept) |
-| `zyntaflow_brand_identity.md` | Mission, voice, and core values |
-| `zyntaflow_visual_identity.md` | Color palette, typography, visual strategy |
-| `zyntaflow_positioning.md` | Market positioning and differentiation |
-| `zyntaflow_content_strategy.md` | Content pillars and publishing plan |
-| `zyntaflow_marketing_plan.md` | Full marketing plan with channels and budgets |
-| `zyntaflow_acquisition_funnel.md` | Customer acquisition funnel breakdown |
+| `AISurfaced_final_report.md` | Complete brand identity report (colors, typography, logo concept) |
+| `AISurfaced_brand_identity.md` | Mission, voice, and core values |
+| `AISurfaced_visual_identity.md` | Color palette, typography, visual strategy |
+| `AISurfaced_positioning.md` | Market positioning and differentiation |
+| `AISurfaced_content_strategy.md` | Content pillars and publishing plan |
+| `AISurfaced_marketing_plan.md` | Full marketing plan with channels and budgets |
+| `AISurfaced_acquisition_funnel.md` | Customer acquisition funnel breakdown |
 
 ---
 
@@ -112,7 +112,7 @@ Python script to regenerate all PDFs from the markdown files.
 | The business plan | `03-ai-surfaced/docs/AIVISIBILITY_COMPLETE_BUSINESS.md` |
 | Email templates | `03-ai-surfaced/marketing/AIVISIBILITY-EMAIL-SEQUENCES.md` |
 | The website | `03-ai-surfaced/website/index.html` |
-| Old ZyntaFlow brand | `02-zyntaflow-archive/` |
+| Old AISurfaced brand | `02-AISurfaced-archive/` |
 | Name brainstorms | `01-research/agency_names.md` |
 | Domain options | `01-research/available_domains.md` |
 | Launch checklist | `03-ai-surfaced/marketing/AIVISIBILITY-LAUNCH-PLAYBOOK.md` |

@@ -1,7 +1,7 @@
-# ZyntaFlow: Target Audience and Market Positioning (2026)
+# AISurfaced: Target Audience and Market Positioning (2026)
 
 ## 1. The "Double-Niche" Strategy
-To command premium pricing (25-35% margins), ZyntaFlow will focus on a specific industry and a high-value service outcome.
+To command premium pricing (25-35% margins), AISurfaced will focus on a specific industry and a high-value service outcome.
 
 | Industry Niche | Service Niche | Why? |
 | :--- | :--- | :--- |
@@ -16,10 +16,10 @@ To command premium pricing (25-35% margins), ZyntaFlow will focus on a specific 
 - **Decision Maker:** CEO, CMO, or Head of Growth.
 
 ## 3. Unique Selling Proposition (USP)
-"ZyntaFlow doesn't just build websites; we engineer **Adaptive Growth Ecosystems**. We leverage AI to ensure your digital presence evolves in real-time, delivering measurable ROI while your competitors are still stuck with static designs."
+"AISurfaced doesn't just build websites; we engineer **Adaptive Growth Ecosystems**. We leverage AI to ensure your digital presence evolves in real-time, delivering measurable ROI while your competitors are still stuck with static designs."
 
 ## 4. Competitive Positioning
-| Feature | Traditional Agencies | ZyntaFlow |
+| Feature | Traditional Agencies | AISurfaced |
 | :--- | :--- | :--- |
 | **Design** | Static & Aesthetic | Fluid & Immersive (3D) |
 | **Content** | Manual & Generic | AI-Personalized & Dynamic |

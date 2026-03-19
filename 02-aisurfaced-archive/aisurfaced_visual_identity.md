@@ -1,8 +1,8 @@
-# Visual Identity: ZyntaFlow
+# Visual Identity: AISurfaced
 
 ## 1. Color Palette: "The Fluid Future"
 
-The color palette for **ZyntaFlow** is designed to evoke a sense of high-end technology, growth, and professional trust. Colors are provided in both Hex and OKLCH for modern CSS implementations.
+The color palette for **AISurfaced** is designed to evoke a sense of high-end technology, growth, and professional trust. Colors are provided in both Hex and OKLCH for modern CSS implementations.
 
 ---
 

@@ -331,7 +331,7 @@ def markdown_to_pdf(md_path, pdf_path, title=None):
 def main():
     """Generate PDFs for all AI Surfaced documents."""
     
-    base_dir = r"C:\laragon\www\ZyntaFlow_Brand_Package\AIVisibility-Package"
+    base_dir = r"C:\laragon\www\AISurfaced_Brand_Package\AIVisibility-Package"
     pdf_dir = os.path.join(base_dir, "pdf")
     os.makedirs(pdf_dir, exist_ok=True)
     

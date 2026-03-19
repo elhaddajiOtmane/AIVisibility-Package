@@ -1,7 +1,7 @@
-# ZyntaFlow: Client Acquisition and Lead Generation Funnel (2026)
+# AISurfaced: Client Acquisition and Lead Generation Funnel (2026)
 
 ## 1. The "Growth Flow" Funnel
-ZyntaFlow's acquisition strategy is designed to attract, nurture, and convert high-value clients.
+AISurfaced's acquisition strategy is designed to attract, nurture, and convert high-value clients.
 
 | Stage | Strategy | Tactics |
 | :--- | :--- | :--- |
@@ -23,10 +23,10 @@ ZyntaFlow's acquisition strategy is designed to attract, nurture, and convert hi
 
 ### Strategic Partnerships (Referral)
 - **Strategy:** Partner with complementary agencies (e.g., SEO-only or PPC-only agencies) that don't offer full growth ecosystems.
-- **Tactic:** Offer a referral fee or a "white-label" partnership where ZyntaFlow handles the growth strategy.
+- **Tactic:** Offer a referral fee or a "white-label" partnership where AISurfaced handles the growth strategy.
 - **Goal:** Build a network of 3-5 reliable referral partners.
 
 ## 3. Conversion and Retention
-- **Growth Strategy Session:** A 30-minute consultation that provides immediate value and positions ZyntaFlow as the solution.
+- **Growth Strategy Session:** A 30-minute consultation that provides immediate value and positions AISurfaced as the solution.
 - **Outcome-Based Proposals:** Proposals that focus on ROI and growth metrics, not just deliverables.
 - **Quarterly Growth Reviews:** Ongoing reviews with clients to demonstrate ROI and identify new growth opportunities, ensuring high retention.
