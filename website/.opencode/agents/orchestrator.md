@@ -1,7 +1,7 @@
 ---
 name: orchestrator
 mode: primary
-model: anthropic/claude-sonnet-4-20250514
+model: anthropic/claude-3-7-sonnet-20250219
 temperature: 0.1
 maxSteps: 16
 tools:
